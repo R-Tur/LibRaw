@@ -1,1 +1,1 @@
-**Moved to:** https://github.com/Iunusov/LibRaw-Android
+**Moved to:** https://github.com/android-ports/libraw
